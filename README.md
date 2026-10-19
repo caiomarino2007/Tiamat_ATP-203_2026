@@ -8,7 +8,7 @@ Trabalho final da disciplina de Aprendizado de Máquina (ATP-203), ministrada pe
 <br> Este repositório de Aprendizado de Máquina contém a captura da criatura lendária Tiamat, do Reino de Lumi.
 
 ## **Objetivo**
-*Escolher um conjunto de dados, comparar o desempenho de pelo menos $3$ algoritmos/pipelines de aprendizado de máquina (sem contar o baseline) e testar pelo menos $100$ conjuntos de hiperparâmetros diferentes para cada um deles, utilizando o `optuna`.*
+*Escolher um conjunto de dados, comparar o desempenho de pelo menos 3 algoritmos/pipelines de aprendizado de máquina (sem contar o baseline) e testar pelo menos 100 conjuntos de hiperparâmetros diferentes para cada um deles, utilizando o `optuna`.*
 
 O objetivo deste trabalho é prever a temperatura crítica de materiais supercondutores (a temperatura abaixo da qual o material conduz corrente elétrica sem resistência) a partir da sua composição química. Trata-se de um problema de regressão em dados tabulares, com $81$ atributos numéricos e um target (`critical_temp`, em kelvin).
 
